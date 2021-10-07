@@ -3,9 +3,9 @@
         "id": "uwXBD3pJ",
         "projectName": "Navy Lead Dachshund",
         "description": {
-            "en": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+            "en": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
             "ua": "Лорем Іпсум является текст-заполнитель обычно используется в графических, печать и издательской индустрии для предварительного просмотра макета и визуальных макетах."
-        } ,
+        },
         "thumbnail": "https://s0.rbk.ru/v6_top_pics/media/img/0/93/755929983285930.jpg",
         "img": [
             "https://instyle.ru/upload/resize_cache/iblock/66c/650_1200_1/66cb21536c1de81954ddbf3baedb88a5.jpg",
@@ -20,7 +20,10 @@
     {
         "id": "5vXW32nS",
         "projectName": "Project Diamond",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s." ,
+        "description": {
+            "en": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+            "ua": "Лорем Іпсум является текст-заполнитель обычно используется в графических, печать и издательской индустрии для предварительного просмотра макета и визуальных макетах."
+        },
         "thumbnail": "https://instyle.ru/upload/resize_cache/iblock/66c/650_1200_1/66cb21536c1de81954ddbf3baedb88a5.jpg",
         "img": [
             "https://instyle.ru/upload/resize_cache/iblock/66c/650_1200_1/66cb21536c1de81954ddbf3baedb88a5.jpg",
@@ -35,7 +38,10 @@
     {
         "id": "jUHM4FSU",
         "projectName": "Project Spider",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s." ,
+        "description": {
+            "en": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+            "ua": "Лорем Іпсум является текст-заполнитель обычно используется в графических, печать и издательской индустрии для предварительного просмотра макета и визуальных макетах."
+        },
         "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
         "img": [
             "https://instyle.ru/upload/resize_cache/iblock/66c/650_1200_1/66cb21536c1de81954ddbf3baedb88a5.jpg",
@@ -49,7 +55,10 @@
     },{
         "id": "QApj9CY8",
         "projectName": "Project Harbor",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s." ,
+        "description": {
+            "en": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+            "ua": "Лорем Іпсум является текст-заполнитель обычно используется в графических, печать и издательской индустрии для предварительного просмотра макета и визуальных макетах."
+        },
         "thumbnail": "https://instyle.ru/upload/resize_cache/iblock/66c/650_1200_1/66cb21536c1de81954ddbf3baedb88a5.jpg",
         "img": [
             "https://instyle.ru/upload/resize_cache/iblock/66c/650_1200_1/66cb21536c1de81954ddbf3baedb88a5.jpg",
@@ -64,7 +73,10 @@
     {
         "id": "GaS4CEz4",
         "projectName": "Project Ranger",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s." ,
+        "description": {
+            "en": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+            "ua": "Лорем Іпсум является текст-заполнитель обычно используется в графических, печать и издательской индустрии для предварительного просмотра макета и визуальных макетах."
+        },
         "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
         "img": [
             "https://instyle.ru/upload/resize_cache/iblock/66c/650_1200_1/66cb21536c1de81954ddbf3baedb88a5.jpg",
@@ -79,7 +91,10 @@
     {
         "id": "br6sLm7h",
         "projectName": "Project Cardinal",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s." ,
+        "description": {
+            "en": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+            "ua": "Лорем Іпсум является текст-заполнитель обычно используется в графических, печать и издательской индустрии для предварительного просмотра макета и визуальных макетах."
+        },
         "thumbnail": "https://s0.rbk.ru/v6_top_pics/media/img/0/93/755929983285930.jpg",
         "img": [
             "https://instyle.ru/upload/resize_cache/iblock/66c/650_1200_1/66cb21536c1de81954ddbf3baedb88a5.jpg",
@@ -94,7 +109,10 @@
     {
         "id": "5D4ypsX8",
         "projectName": "Project Stella",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s." ,
+        "description": {
+            "en": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+            "ua": "Лорем Іпсум является текст-заполнитель обычно используется в графических, печать и издательской индустрии для предварительного просмотра макета и визуальных макетах."
+        },
         "thumbnail": "https://s0.rbk.ru/v6_top_pics/media/img/0/93/755929983285930.jpg",
         "img": [
             "https://instyle.ru/upload/resize_cache/iblock/66c/650_1200_1/66cb21536c1de81954ddbf3baedb88a5.jpg",
@@ -109,7 +127,10 @@
     {
         "id": "VvtrF3b7",
         "projectName": "Project Jefferson",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s." ,
+        "description": {
+            "en": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+            "ua": "Лорем Іпсум является текст-заполнитель обычно используется в графических, печать и издательской индустрии для предварительного просмотра макета и визуальных макетах."
+        },
         "thumbnail": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp",
         "img": [
             "https://instyle.ru/upload/resize_cache/iblock/66c/650_1200_1/66cb21536c1de81954ddbf3baedb88a5.jpg",
@@ -124,7 +145,10 @@
     {
         "id": "2XfHnBP2",
         "projectName": "Project Wave",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s." ,
+        "description": {
+            "en": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+            "ua": "Лорем Іпсум является текст-заполнитель обычно используется в графических, печать и издательской индустрии для предварительного просмотра макета и визуальных макетах."
+        },
         "thumbnail": "https://s0.rbk.ru/v6_top_pics/media/img/0/93/755929983285930.jpg",
         "img": [
             "https://instyle.ru/upload/resize_cache/iblock/66c/650_1200_1/66cb21536c1de81954ddbf3baedb88a5.jpg",
