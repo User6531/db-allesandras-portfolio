@@ -5,81 +5,19 @@
         "description": {
             "en": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
             "ua": "Лорем Іпсум является текст-заполнитель обычно используется в графических, печать и издательской индустрии для предварительного просмотра макета и визуальных макетах."
-        },
+        } ,
         "thumbnail": "https://s0.rbk.ru/v6_top_pics/media/img/0/93/755929983285930.jpg",
+        "drawings" : [
+            "https://vitospb.ru/800/600/https/dizainmetrov.ru/wp-content/uploads/2017/10/Planirovka-dvuhkomnatnoy-kvartiryi-11.jpg"
+        ],
         "img": [
-            {
-                "original": "https://instyle.ru/upload/resize_cache/iblock/66c/650_1200_1/66cb21536c1de81954ddbf3baedb88a5.jpg",
-                "thumbnail": "https://instyle.ru/upload/resize_cache/iblock/66c/650_1200_1/66cb21536c1de81954ddbf3baedb88a5.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp"
-            },
-            {
-                "original": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg",
-                "thumbnail": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp"
-            },
-            {
-                "original": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg",
-                "thumbnail": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg",
-                "thumbnail": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp"
-            },
-            {
-                "original": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg",
-                "thumbnail": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            }
+            "https://instyle.ru/upload/resize_cache/iblock/66c/650_1200_1/66cb21536c1de81954ddbf3baedb88a5.jpg",
+            "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
+            "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp",
+            "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp",
+            "https://remont-f.ru/upload/iblock/d06/kakoj_interior_horoshii_i_pochemu.jpg",
+            "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg",
+            "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
         ]
     },
     {
@@ -88,81 +26,19 @@
         "description": {
             "en": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
             "ua": "Лорем Іпсум является текст-заполнитель обычно используется в графических, печать и издательской индустрии для предварительного просмотра макета и визуальных макетах."
-        },
+        } ,
         "thumbnail": "https://instyle.ru/upload/resize_cache/iblock/66c/650_1200_1/66cb21536c1de81954ddbf3baedb88a5.jpg",
+        "drawings" : [
+            "https://vitospb.ru/800/600/https/dizainmetrov.ru/wp-content/uploads/2017/10/Planirovka-dvuhkomnatnoy-kvartiryi-11.jpg"
+        ],
         "img": [
-            {
-                "original": "https://instyle.ru/upload/resize_cache/iblock/66c/650_1200_1/66cb21536c1de81954ddbf3baedb88a5.jpg",
-                "thumbnail": "https://instyle.ru/upload/resize_cache/iblock/66c/650_1200_1/66cb21536c1de81954ddbf3baedb88a5.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp"
-            },
-            {
-                "original": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg",
-                "thumbnail": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp"
-            },
-            {
-                "original": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg",
-                "thumbnail": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg",
-                "thumbnail": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp"
-            },
-            {
-                "original": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg",
-                "thumbnail": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            }
+            "https://instyle.ru/upload/resize_cache/iblock/66c/650_1200_1/66cb21536c1de81954ddbf3baedb88a5.jpg",
+            "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
+            "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp",
+            "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp",
+            "https://remont-f.ru/upload/iblock/d06/kakoj_interior_horoshii_i_pochemu.jpg",
+            "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg",
+            "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
         ]
     },
     {
@@ -171,81 +47,19 @@
         "description": {
             "en": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
             "ua": "Лорем Іпсум является текст-заполнитель обычно используется в графических, печать и издательской индустрии для предварительного просмотра макета и визуальных макетах."
-        },
+        } ,
         "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
+        "drawings" : [
+            "https://vitospb.ru/800/600/https/dizainmetrov.ru/wp-content/uploads/2017/10/Planirovka-dvuhkomnatnoy-kvartiryi-11.jpg"
+        ],
         "img": [
-            {
-                "original": "https://instyle.ru/upload/resize_cache/iblock/66c/650_1200_1/66cb21536c1de81954ddbf3baedb88a5.jpg",
-                "thumbnail": "https://instyle.ru/upload/resize_cache/iblock/66c/650_1200_1/66cb21536c1de81954ddbf3baedb88a5.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp"
-            },
-            {
-                "original": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg",
-                "thumbnail": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp"
-            },
-            {
-                "original": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg",
-                "thumbnail": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg",
-                "thumbnail": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp"
-            },
-            {
-                "original": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg",
-                "thumbnail": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            }
+            "https://instyle.ru/upload/resize_cache/iblock/66c/650_1200_1/66cb21536c1de81954ddbf3baedb88a5.jpg",
+            "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
+            "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp",
+            "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp",
+            "https://remont-f.ru/upload/iblock/d06/kakoj_interior_horoshii_i_pochemu.jpg",
+            "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg",
+            "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
         ]
     },{
         "id": "QApj9CY8",
@@ -253,81 +67,19 @@
         "description": {
             "en": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
             "ua": "Лорем Іпсум является текст-заполнитель обычно используется в графических, печать и издательской индустрии для предварительного просмотра макета и визуальных макетах."
-        },
+        } ,
         "thumbnail": "https://instyle.ru/upload/resize_cache/iblock/66c/650_1200_1/66cb21536c1de81954ddbf3baedb88a5.jpg",
-       "img": [
-            {
-                "original": "https://instyle.ru/upload/resize_cache/iblock/66c/650_1200_1/66cb21536c1de81954ddbf3baedb88a5.jpg",
-                "thumbnail": "https://instyle.ru/upload/resize_cache/iblock/66c/650_1200_1/66cb21536c1de81954ddbf3baedb88a5.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp"
-            },
-            {
-                "original": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg",
-                "thumbnail": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp"
-            },
-            {
-                "original": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg",
-                "thumbnail": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg",
-                "thumbnail": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp"
-            },
-            {
-                "original": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg",
-                "thumbnail": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            }
+        "drawings" : [
+            "https://vitospb.ru/800/600/https/dizainmetrov.ru/wp-content/uploads/2017/10/Planirovka-dvuhkomnatnoy-kvartiryi-11.jpg"
+        ],
+        "img": [
+            "https://instyle.ru/upload/resize_cache/iblock/66c/650_1200_1/66cb21536c1de81954ddbf3baedb88a5.jpg",
+            "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
+            "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp",
+            "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp",
+            "https://remont-f.ru/upload/iblock/d06/kakoj_interior_horoshii_i_pochemu.jpg",
+            "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg",
+            "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
         ]
     },
     {
@@ -336,81 +88,20 @@
         "description": {
             "en": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
             "ua": "Лорем Іпсум является текст-заполнитель обычно используется в графических, печать и издательской индустрии для предварительного просмотра макета и визуальных макетах."
-        },
+        } ,
         "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
+        "drawings" : [
+            "https://vitospb.ru/800/600/https/dizainmetrov.ru/wp-content/uploads/2017/10/Planirovka-dvuhkomnatnoy-kvartiryi-11.jpg",
+            "https://i.pinimg.com/originals/6b/3c/2c/6b3c2c54e6ecaf106d5a1cbf1ff65bac.png"
+        ],
         "img": [
-            {
-                "original": "https://instyle.ru/upload/resize_cache/iblock/66c/650_1200_1/66cb21536c1de81954ddbf3baedb88a5.jpg",
-                "thumbnail": "https://instyle.ru/upload/resize_cache/iblock/66c/650_1200_1/66cb21536c1de81954ddbf3baedb88a5.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp"
-            },
-            {
-                "original": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg",
-                "thumbnail": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp"
-            },
-            {
-                "original": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg",
-                "thumbnail": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg",
-                "thumbnail": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp"
-            },
-            {
-                "original": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg",
-                "thumbnail": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            }
+            "https://instyle.ru/upload/resize_cache/iblock/66c/650_1200_1/66cb21536c1de81954ddbf3baedb88a5.jpg",
+            "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
+            "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp",
+            "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp",
+            "https://remont-f.ru/upload/iblock/d06/kakoj_interior_horoshii_i_pochemu.jpg",
+            "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg",
+            "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
         ]
     },
     {
@@ -419,81 +110,19 @@
         "description": {
             "en": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
             "ua": "Лорем Іпсум является текст-заполнитель обычно используется в графических, печать и издательской индустрии для предварительного просмотра макета и визуальных макетах."
-        },
+        } ,
         "thumbnail": "https://s0.rbk.ru/v6_top_pics/media/img/0/93/755929983285930.jpg",
+        "drawings" : [
+            "https://vitospb.ru/800/600/https/dizainmetrov.ru/wp-content/uploads/2017/10/Planirovka-dvuhkomnatnoy-kvartiryi-11.jpg"
+        ],
         "img": [
-            {
-                "original": "https://instyle.ru/upload/resize_cache/iblock/66c/650_1200_1/66cb21536c1de81954ddbf3baedb88a5.jpg",
-                "thumbnail": "https://instyle.ru/upload/resize_cache/iblock/66c/650_1200_1/66cb21536c1de81954ddbf3baedb88a5.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp"
-            },
-            {
-                "original": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg",
-                "thumbnail": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp"
-            },
-            {
-                "original": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg",
-                "thumbnail": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg",
-                "thumbnail": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp"
-            },
-            {
-                "original": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg",
-                "thumbnail": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            }
+            "https://instyle.ru/upload/resize_cache/iblock/66c/650_1200_1/66cb21536c1de81954ddbf3baedb88a5.jpg",
+            "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
+            "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp",
+            "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp",
+            "https://remont-f.ru/upload/iblock/d06/kakoj_interior_horoshii_i_pochemu.jpg",
+            "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg",
+            "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
         ]
     },
     {
@@ -502,496 +131,62 @@
         "description": {
             "en": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
             "ua": "Лорем Іпсум является текст-заполнитель обычно используется в графических, печать и издательской индустрии для предварительного просмотра макета и визуальных макетах."
-        },
+        } ,
         "thumbnail": "https://s0.rbk.ru/v6_top_pics/media/img/0/93/755929983285930.jpg",
+        "drawings" : [
+            "https://vitospb.ru/800/600/https/dizainmetrov.ru/wp-content/uploads/2017/10/Planirovka-dvuhkomnatnoy-kvartiryi-11.jpg"
+        ],
         "img": [
-            {
-                "original": "https://instyle.ru/upload/resize_cache/iblock/66c/650_1200_1/66cb21536c1de81954ddbf3baedb88a5.jpg",
-                "thumbnail": "https://instyle.ru/upload/resize_cache/iblock/66c/650_1200_1/66cb21536c1de81954ddbf3baedb88a5.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp"
-            },
-            {
-                "original": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg",
-                "thumbnail": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp"
-            },
-            {
-                "original": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg",
-                "thumbnail": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg",
-                "thumbnail": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp"
-            },
-            {
-                "original": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg",
-                "thumbnail": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            }
+            "https://instyle.ru/upload/resize_cache/iblock/66c/650_1200_1/66cb21536c1de81954ddbf3baedb88a5.jpg",
+            "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
+            "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp",
+            "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp",
+            "https://remont-f.ru/upload/iblock/d06/kakoj_interior_horoshii_i_pochemu.jpg",
+            "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg",
+            "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
         ]
     },
     {
-        "id": "VvtbvfrF3b7",
+        "id": "VvtrF3b7",
         "projectName": "Project Jefferson",
         "description": {
             "en": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
             "ua": "Лорем Іпсум является текст-заполнитель обычно используется в графических, печать и издательской индустрии для предварительного просмотра макета и визуальных макетах."
-        },
+        } ,
         "thumbnail": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp",
-         "img": [
-            {
-                "original": "https://instyle.ru/upload/resize_cache/iblock/66c/650_1200_1/66cb21536c1de81954ddbf3baedb88a5.jpg",
-                "thumbnail": "https://instyle.ru/upload/resize_cache/iblock/66c/650_1200_1/66cb21536c1de81954ddbf3baedb88a5.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp"
-            },
-            {
-                "original": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg",
-                "thumbnail": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp"
-            },
-            {
-                "original": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg",
-                "thumbnail": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg",
-                "thumbnail": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp"
-            },
-            {
-                "original": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg",
-                "thumbnail": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            }
+        "drawings" : [
+            "https://vitospb.ru/800/600/https/dizainmetrov.ru/wp-content/uploads/2017/10/Planirovka-dvuhkomnatnoy-kvartiryi-11.jpg",
+            "https://i.pinimg.com/originals/6b/3c/2c/6b3c2c54e6ecaf106d5a1cbf1ff65bac.png"
+        ],
+        "img": [
+            "https://instyle.ru/upload/resize_cache/iblock/66c/650_1200_1/66cb21536c1de81954ddbf3baedb88a5.jpg",
+            "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
+            "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp",
+            "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp",
+            "https://remont-f.ru/upload/iblock/d06/kakoj_interior_horoshii_i_pochemu.jpg",
+            "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg",
+            "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
         ]
     },
     {
-        "id": "2Xfcase1HnBP2",
+        "id": "2XfHnBP2",
         "projectName": "Project Wave",
         "description": {
             "en": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
             "ua": "Лорем Іпсум является текст-заполнитель обычно используется в графических, печать и издательской индустрии для предварительного просмотра макета и визуальных макетах."
-        },
+        } ,
         "thumbnail": "https://s0.rbk.ru/v6_top_pics/media/img/0/93/755929983285930.jpg",
-       "img": [
-            {
-                "original": "https://instyle.ru/upload/resize_cache/iblock/66c/650_1200_1/66cb21536c1de81954ddbf3baedb88a5.jpg",
-                "thumbnail": "https://instyle.ru/upload/resize_cache/iblock/66c/650_1200_1/66cb21536c1de81954ddbf3baedb88a5.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp"
-            },
-            {
-                "original": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg",
-                "thumbnail": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp"
-            },
-            {
-                "original": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg",
-                "thumbnail": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg",
-                "thumbnail": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp"
-            },
-            {
-                "original": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg",
-                "thumbnail": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            }
-        ]
-    },
-    {
-        "id": "2X12esafHnBP2",
-        "projectName": "Project Wave",
-        "description": {
-            "en": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-            "ua": "Лорем Іпсум является текст-заполнитель обычно используется в графических, печать и издательской индустрии для предварительного просмотра макета и визуальных макетах."
-        },
-        "thumbnail": "https://s0.rbk.ru/v6_top_pics/media/img/0/93/755929983285930.jpg",
-       "img": [
-            {
-                "original": "https://instyle.ru/upload/resize_cache/iblock/66c/650_1200_1/66cb21536c1de81954ddbf3baedb88a5.jpg",
-                "thumbnail": "https://instyle.ru/upload/resize_cache/iblock/66c/650_1200_1/66cb21536c1de81954ddbf3baedb88a5.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp"
-            },
-            {
-                "original": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg",
-                "thumbnail": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp"
-            },
-            {
-                "original": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg",
-                "thumbnail": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg",
-                "thumbnail": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp"
-            },
-            {
-                "original": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg",
-                "thumbnail": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            }
-        ]
-    },
-    {
-        "id": "2XfHsdfvnBP2",
-        "projectName": "Project Wave",
-        "description": {
-            "en": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-            "ua": "Лорем Іпсум является текст-заполнитель обычно используется в графических, печать и издательской индустрии для предварительного просмотра макета и визуальных макетах."
-        },
-        "thumbnail": "https://s0.rbk.ru/v6_top_pics/media/img/0/93/755929983285930.jpg",
-       "img": [
-            {
-                "original": "https://instyle.ru/upload/resize_cache/iblock/66c/650_1200_1/66cb21536c1de81954ddbf3baedb88a5.jpg",
-                "thumbnail": "https://instyle.ru/upload/resize_cache/iblock/66c/650_1200_1/66cb21536c1de81954ddbf3baedb88a5.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp"
-            },
-            {
-                "original": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg",
-                "thumbnail": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp"
-            },
-            {
-                "original": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg",
-                "thumbnail": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg",
-                "thumbnail": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp"
-            },
-            {
-                "original": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg",
-                "thumbnail": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            }
-        ]
-    },
-    {
-        "id": "2XfHasdnBP2",
-        "projectName": "Project Wave",
-        "description": {
-            "en": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-            "ua": "Лорем Іпсум является текст-заполнитель обычно используется в графических, печать и издательской индустрии для предварительного просмотра макета и визуальных макетах."
-        },
-        "thumbnail": "https://s0.rbk.ru/v6_top_pics/media/img/0/93/755929983285930.jpg",
-       "img": [
-            {
-                "original": "https://instyle.ru/upload/resize_cache/iblock/66c/650_1200_1/66cb21536c1de81954ddbf3baedb88a5.jpg",
-                "thumbnail": "https://instyle.ru/upload/resize_cache/iblock/66c/650_1200_1/66cb21536c1de81954ddbf3baedb88a5.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp"
-            },
-            {
-                "original": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg",
-                "thumbnail": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp"
-            },
-            {
-                "original": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg",
-                "thumbnail": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg",
-                "thumbnail": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp"
-            },
-            {
-                "original": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp",
-                "thumbnail": "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp"
-            },
-            {
-                "original": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg",
-                "thumbnail": "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg"
-            },
-            {
-                "original": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
-                "thumbnail": "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
-            }
+        "drawings" : [
+            "https://vitospb.ru/800/600/https/dizainmetrov.ru/wp-content/uploads/2017/10/Planirovka-dvuhkomnatnoy-kvartiryi-11.jpg"
+        ],
+        "img": [
+            "https://instyle.ru/upload/resize_cache/iblock/66c/650_1200_1/66cb21536c1de81954ddbf3baedb88a5.jpg",
+            "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg",
+            "https://api.interior.ru/media/images/2018_02/kolkhoze/cover_torino.jpg.webp",
+            "https://api.interior.ru/media/images/setka/2019_11/Minimalistic_interior_2_1920.jpg.webp",
+            "https://remont-f.ru/upload/iblock/d06/kakoj_interior_horoshii_i_pochemu.jpg",
+            "https://dominterier.ru/wp-content/uploads/2018/12/vr-13.jpg",
+            "https://i.pinimg.com/736x/4c/32/c3/4c32c3e92274a1831c3a3b83cfa789ea.jpg"
         ]
     }
 ]
